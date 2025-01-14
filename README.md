@@ -1,0 +1,1 @@
+Init the repo withe : "docker compose -f compose.dev.yaml up --build"
